@@ -2,3 +2,4 @@ hello git
 i am learning git.
 git is interacting
 I created this on the feature branch.
+This line was added on master.
